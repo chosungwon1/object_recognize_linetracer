@@ -1,1 +1,0 @@
-# object_recognize_linetracer
